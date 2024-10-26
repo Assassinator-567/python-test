@@ -1,6 +1,6 @@
 
 def hello():
-    print('hello, python')
+    print('hello')
 
 def hi(name):
     print(f'hi, {name},luxi')
